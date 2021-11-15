@@ -1,0 +1,63 @@
+p{
+    text-align: center;
+}
+ul
+{
+    list-style: none;
+}
+footer
+{
+    background-color: darkgreen;
+    border: 3px solid rgb(0, 73, 0);
+    width: 46.5%;
+    color: white;
+}
+.third
+{
+    position: relative;
+    top: -17px;
+}
+.actions
+{  
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(194, 255, 194);
+    border: 3px solid darkgreen;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px
+    margin-bottom: 5px;
+    width: 25%;
+    height: 150px;
+}
+button
+{
+    color: white;
+    background-color: darkgreen;
+    padding: 6px;
+}
+.code-block
+{
+    display: inline-block;
+}
+#codearea
+{
+    background-color: rgb(225, 247, 255);
+    border: 3px solid blue;
+    width: 400%;
+    height: 500px;
+    color: black;
+}
+#preview-window
+{
+    position: absolute;
+   right: 135px;
+   top: 35%;
+   border: 3px solid black;
+   background-color: white;
+   width: 42.5%;
+   height: 500px;
+}
