@@ -1,4 +1,4 @@
 function myFunction() {
 	alert("This is a static website.");
-	document.getElementsByTagName("button").style.backgroundColor = "light green";
+	document.getElementsByTagName("button").style.backgroundColor = "blue";
   }
